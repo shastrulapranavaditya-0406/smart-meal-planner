@@ -1,6 +1,6 @@
 # Smart meal planner
 
-*Automatically synced with your [smart.app](https://smart.app) deployments*
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://smart.com/shastrulap47-7676s-projects/smart-meal-planner)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iiY1yCJbgSZ)
